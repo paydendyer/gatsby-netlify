@@ -4,7 +4,7 @@ backend:
   
 media_folder: "images/uploads"
 media_library:
-   name: "uploads"
+   name: "images/uploads"
 
 collections:
   - name: "blog"
