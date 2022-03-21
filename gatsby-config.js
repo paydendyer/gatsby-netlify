@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Payden's Gatsby/Netlify Blog`,
     author: {
       name: `Payden Dyer`,
       summary: `who lives in Omaha and is a Frontend Developer`,
